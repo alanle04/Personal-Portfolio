@@ -476,8 +476,13 @@ svg {
 
 .projects__subtitle,
 .projects__button{
-    color: var(--title-color);
     font-size: var(--small-font-size);
+}
+
+.projects__title,
+.projects__subtitle,
+.projects__button {
+    color: var(--container-color);
 }
 
 .projects__subtitle{
